@@ -11,7 +11,7 @@ import java.util.List;
 import java.util.Optional;
 
 public class InboundSearchRepoImp implements InboundSearchRepo {
-
+//다시올리기
     Connection connection = DBConnection.getConnection();
     CallableStatement cs = null;
     ResultSet rs = null;
